@@ -1,3 +1,3 @@
-module factory-method
+module design-patterns-factory-method
 
 go 1.17
